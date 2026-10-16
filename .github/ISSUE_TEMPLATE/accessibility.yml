@@ -1,0 +1,21 @@
+name: Accessibility feedback
+description: Prepared template; repository Issues are currently disabled.
+title: "[Accessibility]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Repository Issues are currently disabled. If enabled later, do not include personal, medical, account, or other sensitive information.
+  - type: textarea
+    id: barrier
+    attributes:
+      label: What barrier did you encounter?
+      description: A short description is enough; sharing a diagnosis is not required.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Relevant interaction context
+      description: For example, keyboard use or a general device/browser category. Avoid identifiers and private data.

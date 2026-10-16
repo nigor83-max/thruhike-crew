@@ -1,0 +1,27 @@
+name: Product issue
+description: Prepared template; repository Issues are currently disabled.
+title: "[Issue]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Repository Issues are currently disabled. If enabled later, never include passwords, tokens, personal data, private trip/location details, payment information, or production logs. Do not test against production or another person's data.
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: Describe the behavior at a high level. Remove personal or confidential details.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: General environment
+      description: Optional product area or browser family; do not include identifiers or private URLs.
