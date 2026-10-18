@@ -2,7 +2,7 @@
 
 ## Current scope
 
-The project owner is the sole first maintainer. Once the GitHub Issues feature is enabled, this repository accepts only safe factual observations in public Issues. An Issue must describe something the reporter can already observe from public ThruHike pages or public repository documents. Issues are not feature requests, work assignments, or invitations to produce replacement content.
+The project owner is the sole first maintainer. GitHub Issues currently accept only safe factual observations in public Issues. An Issue must describe something the reporter can already observe from public ThruHike pages or public repository documents. Issues are not feature requests, work assignments, or invitations to produce replacement content.
 
 Until the owner separately approves and publishes a license and intellectual-property terms, **do not open pull requests or submit code, images, designs, text, translations, maps, route data, or other creative or technical materials**. Do not start work that depends on submitting those materials. No license is granted by this repository, and no ownership or permission transfer is implied by an Issue.
 

@@ -4,7 +4,7 @@
 
 ## Русский
 
-ThruHike Crew — сообщество людей, которым интересно помогать развитию ThruHike. Возможные направления интереса включают тестирование, доступность, публичные маршруты, документацию, идеи и обратную связь. После включения GitHub Issues репозиторий принимает только безопасные фактические наблюдения.
+ThruHike Crew — сообщество людей, которым интересно помогать развитию ThruHike. Возможные направления интереса включают тестирование, доступность, публичные маршруты, документацию, идеи и обратную связь. Публичные GitHub Issues принимают только безопасные фактические наблюдения.
 
 **Владелец проекта — единственный первый сопровождающий и модератор.** Открытые Issues видны публично. Не размещайте персональные, конфиденциальные, чувствительные или security-данные, скриншоты с такими данными, закрытые координаты маршрутов, внутренние URL, логи, конфигурацию или доступы.
 
@@ -14,11 +14,11 @@ ThruHike Crew — сообщество людей, которым интерес
 
 ### Контакты
 
-`support@thruhike.pro` предназначен только для вопросов о персональных данных, отзыва согласия и запросов на удаление. Не используйте этот адрес для предложений, задач, модерации или сообщений об уязвимостях. Для уязвимостей используйте GitHub **Report a vulnerability** в разделе Security, когда этот маршрут доступен. Для обычных задач используйте только публичные Issues после их включения и только в указанных выше пределах.
+`support@thruhike.pro` предназначен только для вопросов о персональных данных, отзыва согласия и запросов на удаление. Не используйте этот адрес для предложений, задач, модерации или сообщений об уязвимостях. Для уязвимостей используйте GitHub **Report a vulnerability** в разделе Security. Для обычных задач используйте только публичные Issues и только в указанных выше пределах.
 
 ## English
 
-ThruHike Crew is a community for people interested in helping ThruHike grow. Areas of interest may include testing, accessibility, public routes, documentation, ideas, and feedback. Once GitHub Issues are enabled, this repository accepts only safe factual observations.
+ThruHike Crew is a community for people interested in helping ThruHike grow. Areas of interest may include testing, accessibility, public routes, documentation, ideas, and feedback. Public GitHub Issues currently accept only safe factual observations.
 
 **The project owner is the sole first maintainer and moderator.** Issues are public. Do not post personal, confidential, sensitive, or security data; screenshots containing such data; private route coordinates; internal URLs, logs, configuration, or credentials.
 
@@ -28,4 +28,4 @@ Participation does not promise payment, income, equity, employment, or other rig
 
 ### Contacts
 
-`support@thruhike.pro` is only for personal-data questions, consent withdrawal, and deletion requests. Do not use it for proposals, tasks, moderation, or vulnerability reports. Use GitHub **Report a vulnerability** in the Security section once the route is available. Use public Issues for ordinary tasks only after they are enabled and only within the limits above.
+`support@thruhike.pro` is only for personal-data questions, consent withdrawal, and deletion requests. Do not use it for proposals, tasks, moderation, or vulnerability reports. Use GitHub **Report a vulnerability** in the Security section. Use public Issues for ordinary tasks only within the limits above.
