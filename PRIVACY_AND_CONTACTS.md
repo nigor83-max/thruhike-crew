@@ -1,20 +1,9 @@
 # Privacy and contacts
 
-**No public intake or contact channel is currently available.** This document intentionally contains no personal email address, named recipient, or invitation to submit contact details. Website applications and repository Issues are disabled.
+GitHub Issues are public and accept only safe factual observations about already-public pages and repository documents. Do not include names, email addresses, phone numbers, account details, private messages, precise private or sensitive route locations, payment information, or other personal/confidential information. Check screenshots before attaching them.
 
-## Do not send personal information
+The public Crew application is disabled. This repository is not an application, recruiting, or general contact form. It does not accept private data, product code, designs, content, maps, or other contributions.
 
-Do not post names, email addresses, phone numbers, account details, precise location or trip information, payment information, private messages, or other personal or confidential data in public issues or pull requests. Do not attach logs or screenshots until they have been checked for such data.
+`support@thruhike.pro` is only for privacy/data questions, consent withdrawal, and deletion requests. Do not send proposals, task reports, moderation reports, or security vulnerabilities to this address. Use GitHub's private **Report a vulnerability** route for security findings. There is no separate private community or moderation contact established here.
 
-## Future contact or intake
-
-Before collecting any information, the project owner must approve and publish:
-
-- the purpose and lawful basis for each field;
-- the accountable privacy owner and authorized recipients;
-- the minimum necessary fields and a secure handling route;
-- retention and deletion periods, access controls, and an opt-out or rights-request process;
-- applicable jurisdictions and a reviewed privacy notice;
-- a tested submission, error, and deletion workflow.
-
-Until those items are approved and implemented, no page or profile link should be treated as an application or contact channel. Do not promise confidentiality or a response.
+The project owner is the sole first maintainer and moderator. Public Issues may be reviewed or closed at the owner's discretion; no response-time commitment is made. Do not expect an Issue to be private or to receive a response.

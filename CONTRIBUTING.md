@@ -1,23 +1,30 @@
 # Contributing to ThruHike Crew
 
-**The repository is public, but product contributions are not currently being accepted.** Website applications and repository Issues are disabled. Maintainers and contribution terms have not been approved.
+## Current scope
 
-## Before contributing
+The project owner is the sole first maintainer. Once the GitHub Issues feature is enabled, this repository accepts only safe factual observations in public Issues. An Issue must describe something the reporter can already observe from public ThruHike pages or public repository documents. Issues are not feature requests, work assignments, or invitations to produce replacement content.
 
-Please do not open a pull request, send a patch, or begin work based on this document. No public task has been approved or assigned. Before contributions open, the project owner must select a license and contribution/IP terms, name maintainers, and state which parts of the product may receive contributions.
+Until the owner separately approves and publishes a license and intellectual-property terms, **do not open pull requests or submit code, images, designs, text, translations, maps, route data, or other creative or technical materials**. Do not start work that depends on submitting those materials. No license is granted by this repository, and no ownership or permission transfer is implied by an Issue.
 
-Never include passwords, API keys, access tokens, private URLs, personal data, private trip/location information, payment information, or production logs in an issue or patch. Do not submit product source or material whose publication rights are unclear.
+## Safe report requirements
 
-## Intended contribution areas
+Use public information only. Include:
 
-Possible areas include code, testing, design, routes, content, documentation, translation, community support, and ideas. These are areas of interest, not currently open tasks or commitments. Newcomers are welcome in principle; no programming experience, financial contribution, or fixed schedule is intended as a prerequisite.
+- the public page or repository path;
+- what you observed, stated neutrally;
+- steps to reproduce, if applicable, without signing in or accessing private systems;
+- expected and observed public behavior;
+- browser/device and viewport only when relevant;
+- a small, verifiable acceptance criterion for confirming the observation.
 
-## Review and conduct
+Do not include personal data, contact details, private messages, credentials, private source/configuration, production logs, exact private or sensitive route coordinates, security vulnerabilities, or unredacted screenshots. Do not test production systems beyond ordinary public page use. Do not post proposals or replacement text/assets/maps; report the factual discrepancy only.
 
-If contributions are opened later, maintainers should publish the applicable review process, scope, safety requirements, and response expectations before work begins. Be respectful, explain changes clearly, and avoid making claims about product behavior that have not been verified.
+## Review
 
-There is currently no approved contribution license or agreement. Do not assume that submitting a change grants permission to publish it or that acceptance transfers ownership. Wait for owner-approved terms before contributing.
+The project owner is the sole first maintainer and moderator. There is no response-time or completion commitment. The owner may close reports that are unsafe, outside this scope, duplicative, or not verifiable from public information. Do not treat an open Issue as an assignment or authorization.
 
-## Compensation and ownership
+## Contacts and security
 
-Contributing does not guarantee payment, income, equity, tokens, or other rights. Any paid task would require a separate budget and written agreement before work starts. Future co-ownership or community governance is only a possibility for later consideration under a suitable legal and governance model; neither is automatic or guaranteed.
+`support@thruhike.pro` is only for privacy/data questions, consent withdrawal, and deletion requests. Use GitHub's private **Report a vulnerability** route for security vulnerabilities; never disclose them in a public Issue. No code or other contribution channel is open.
+
+Participation does not promise compensation, employment, equity, ownership, or other rights.

@@ -1,21 +1,17 @@
 # Governance
 
-**Future framework for discussion; it is not an adopted governance model.** No maintainers, council, voting rights, or delegated authority are appointed by this document.
+## Current authority
 
-## Current responsibility
+The project owner is the sole first maintainer and moderator of this public repository. No council, voting rights, delegated project authority, or successor maintainer is appointed by this document. The owner may review and close public Issues within the limited reporting scope described in `CONTRIBUTING.md`.
 
-Until the project owner makes a separate decision and formal arrangements are completed, project rights and responsibilities remain with the current owner. A Crew participant does not receive authority to represent the project, approve releases, access production, bind the project, or make promises about money or ownership.
+## Current repository scope
 
-## Possible future direction
+This repository accepts only safe factual observations based on public ThruHike pages and public repository documents. Issues are not implementation assignments. Until separate licensing and intellectual-property terms are approved and published, pull requests and submitted code, images, designs, text, translations, maps, route data, and other materials are not accepted.
 
-The project may consider broader community participation in decisions and a suitable co-ownership structure in the future. This would require a defined legal entity or other appropriate legal arrangement, transparent eligibility and decision rules, accountable roles, conflict-of-interest handling, and owner approval. No timeline or outcome is promised.
+## Future changes
 
-Future governance must not imply automatic equity, tokens, dividends, income, or ownership for participation, time spent, or accepted contributions. Any individual rights would require separate, explicit legal documentation.
+Any broader contribution program, additional maintainers, moderation delegation, governance, or ownership arrangement requires a separate explicit decision and updated public rules. Participation does not grant payment, employment, equity, ownership, or authority to represent the project. No response-time or issue-resolution commitment is made.
 
-## Decisions required before adoption
+## Contacts
 
-- Appoint maintainers and define their scope, term, and removal or succession process.
-- Define decision-making, voting eligibility, quorum, records, conflicts, and appeal paths.
-- Approve project ownership, intellectual-property and contribution terms with appropriate legal review.
-- Define release, security, privacy, moderation, and incident responsibilities.
-- Publish the adopted model and the date it takes effect.
+`support@thruhike.pro` is reserved for privacy/data questions, consent withdrawal, and deletion requests. Security reports must use GitHub's private vulnerability reporting route. No separate private moderation or community contact is designated.

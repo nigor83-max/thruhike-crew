@@ -1,0 +1,54 @@
+name: Safe public factual observation
+description: Report one reproducible fact about an already-public page or repository document. No proposals or private information.
+title: "[Observation]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Public issue:** anything submitted here is visible publicly. The project owner is the sole first maintainer/moderator. Do not submit names, contact details, account data, private correspondence, exact private/sensitive locations, screenshots containing personal information, credentials, logs, private source/configuration, or security findings. `support@thruhike.pro` is only for privacy/deletion requests. Use the Security tab's private Report a vulnerability route for security.
+        No PRs, code, text, images, designs, maps, route data, or other materials are accepted until separate licensing/IP terms are approved. This form accepts factual observations only.
+  - type: input
+    id: public_url
+    attributes:
+      label: Public page or repository URL
+      description: Use an already-public URL only. Never provide internal/private URLs.
+      placeholder: https://thruhike.ru/crew
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: What did you observe?
+      description: State one short, factual observation from the public page. Do not suggest replacement content or implementation.
+      placeholder: I observed that ...
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps and public evidence
+      description: Include steps to reproduce and a short public excerpt if useful. Do not attach unredacted screenshots.
+      placeholder: 1. Open the public page ...
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser, language, or viewport (if relevant)
+      description: General technical details only; no account identifiers or personal details.
+    validations:
+      required: false
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety confirmation
+      options:
+        - label: This report uses public information only and includes no personal, confidential, sensitive, or security information.
+          required: true
+        - label: This is a factual observation, not a request for implementation or a submission of code/content/assets/maps.
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        **Acceptance:** the sole maintainer can reproduce or verify the stated observation from the linked public source; the report remains within public information and this repository's report-only scope. No response or resolution time is promised.

@@ -1,13 +1,15 @@
-# Security reporting
+# Security policy
 
-**No security reporting channel is currently available.** This public repository is informational; website applications and repository Issues are disabled. Do not send vulnerability details through public channels.
+## Private vulnerability reporting
 
-## Do not disclose vulnerabilities publicly
+Private vulnerability reports will be accepted only through GitHub's private **Report a vulnerability** route from the repository's **Security** tab after the owner enables it and verifies that it is visible. Do not report vulnerabilities in public Issues, discussions, pull requests, or by emailing `support@thruhike.pro`. If the private reporting button is not visible, do not submit a report through another channel; no alternate security contact is designated.
 
-Do not create a public issue, discussion, pull request, or post containing exploit details, credentials, personal data, production configuration, private trip/location data, or information that could put users or infrastructure at risk.
+The project owner is the sole first maintainer and security contact through that GitHub route. No response-time or remediation commitment is promised. Do not test against production, other users' accounts, or systems outside the public repository without explicit authorization. Include only information needed to describe the issue and avoid personal data or secrets.
 
-No security contact, response-time commitment, or private vulnerability-reporting route is designated here. Do not infer that a reporting channel is available. A monitored private route and its handling process must be published before vulnerability reports are accepted.
+## Ordinary Issues
 
-## Scope and handling
+Public Issues are limited to safe factual observations about already-public ThruHike pages or repository documents. Never include security findings, credentials, personal data, private source/configuration, logs, or private route information.
 
-The security owner must define the supported products and versions, safe-harbor and testing boundaries, acknowledgment and remediation process, disclosure coordination, and escalation responsibilities before accepting reports. Do not test against production or other people's data without explicit authorization.
+## Scope and contributions
+
+This repository publishes community information only. Product code and other contributions are not accepted until separate license and intellectual-property terms are approved. The sole first maintainer may close reports outside the safe public-observation scope.

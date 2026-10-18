@@ -1,19 +1,9 @@
 # Community Code of Conduct
 
-These standards describe expected conduct in ThruHike Crew spaces. Public participation channels are not currently open, and no conduct reporting contact or escalation process is staffed.
+The project owner is the sole first maintainer and moderator of this repository. Treat people respectfully and discuss public observations without harassment, discrimination, threats, intimidation, doxxing, or personal attacks. Critique an observation, not the person reporting it.
 
-## Our standard
+GitHub Issues in this repository are public and limited to safe factual observations about public ThruHike pages and repository documents. Do not put personal or sensitive details, private correspondence, unredacted screenshots, credentials, private route information, or security findings in an Issue.
 
-ThruHike Crew is intended to be welcoming to people with different backgrounds, experience levels, languages, and ways of contributing. Treat people with respect. Make room for newcomers. Critique ideas and work without attacking people.
+No private conduct-reporting contact or response-time commitment is established by this document. Do not use `support@thruhike.pro` for moderation; it is only for privacy/data questions, consent withdrawal, and deletion requests. If a concern cannot be reported safely as a public factual observation, do not post it here. The owner may moderate or close content that violates these rules.
 
-Unacceptable behavior includes harassment, discrimination, threats, intimidation, unwanted sexual attention, doxxing, repeated personal attacks, and sharing another person's private information without permission. Do not pressure anyone to contribute unpaid labor, disclose personal details, or promise future work, money, or ownership on behalf of the project.
-
-## Scope
-
-These standards apply to community spaces and project-related interactions designated by the project owner. The public repository is informational; website applications and repository Issues are disabled.
-
-## Reporting and enforcement
-
-No conduct contact, response-time commitment, or escalation owner is currently available. Do not post sensitive reports publicly. Before opening participation channels, the project owner must publish a safe reporting route, name accountable moderators, define review and appeal steps, and explain how reports are handled.
-
-Until that process is staffed, this document does not provide an operational reporting or enforcement channel.
+This code does not open a contribution channel. Pull requests and submitted code, content, images, maps, or other materials remain closed until separate IP/licensing terms are approved.
