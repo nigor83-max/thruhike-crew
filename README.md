@@ -1,6 +1,6 @@
 # ThruHike Crew
 
-**Публичная информационная страница:** https://thruhike.ru/crew. Приём заявок на сайте выключен. Этот репозиторий не принимает заявки на вступление.
+**Публичная страница и форма:** https://thruhike.ru/crew. Приём заявок на сайте открыт. Этот репозиторий не принимает заявки на вступление.
 
 ## Русский
 
@@ -10,7 +10,7 @@ ThruHike Crew — сообщество людей, которым интерес
 
 Пока отдельно не утверждены лицензия и условия интеллектуальных прав, **не принимаются pull requests, код, изображения, дизайн-макеты, тексты, карты, данные или другие материалы**. Не начинайте работу, требующую отправки таких материалов. Issues предназначены только для отчётов об уже наблюдаемых фактах, не для предложений изменений или поручений на реализацию.
 
-Участие не обещает оплату, доход, долю, трудоустройство или иные права. Приём Crew-заявок отключён.
+Участие не обещает оплату, доход, долю, трудоустройство или иные права. Публичные Crew-заявки принимаются через форму на сайте; GitHub не является каналом подачи заявки.
 
 ### Контакты
 
@@ -24,7 +24,7 @@ ThruHike Crew is a community for people interested in helping ThruHike grow. Are
 
 Until a separate license and intellectual-property terms are approved, **pull requests, code, images, design files, text, maps, data, and other submitted materials are not accepted**. Do not begin work that requires submitting such materials. Issues are limited to reports of facts already observed; they are not requests for changes or implementation assignments.
 
-Participation does not promise payment, income, equity, employment, or other rights. Crew applications are disabled.
+Participation does not promise payment, income, equity, employment, or other rights. Website Crew applications are open; GitHub is not an application channel.
 
 ### Contacts
 

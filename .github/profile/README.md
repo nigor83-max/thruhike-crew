@@ -1,6 +1,6 @@
 # ThruHike Crew
 
-ThruHike Crew brings together people interested in helping ThruHike. The public Crew page is https://thruhike.ru/crew and applications are disabled.
+ThruHike Crew brings together people interested in helping ThruHike. The public Crew page and application form are at https://thruhike.ru/crew.
 
 The project owner is the sole first maintainer/moderator. Public Issues are limited to safe, factual observations based on already-public pages and repository documents. Do not submit personal data, private information, security findings, proposals, or implementation requests.
 
